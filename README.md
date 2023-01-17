@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onuralemdaroglu&label=Profile%20views&color=0e75b6&style=flat" alt="onuralemdaroglu" /> </p>
 
-- I’m currently learning **Javascript**
+- I’m currently improve my **Javascript** skills.
 
 - 📫 How to reach me **onuralemdaroglu@gmail.com**
 
